@@ -82,7 +82,7 @@ class list1{
                     taskButton.onclick = function () {
                               pophead.innerHTML = "ADD NEW TASK";
                               modal.style.display = "block";
-                              input.placeholder = "ADD NEW TASK";
+                         
                     
 
                               add.onclick = function () {
